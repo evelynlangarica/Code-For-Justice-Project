@@ -68,7 +68,7 @@ h2 {
 
 footer {
     text-align: center;
-    padding: 30px;
+    <<<<<<< HEAD padding: 30px;
     background-color: black;
     color: white;
 }
@@ -139,4 +139,8 @@ li a:hover {
 /* facebook */
 .fa-facebook {
     color: darkgoldenrod;
+    =======padding: 3px;
+    background-color: black;
+    color: white;
+    >>>>>>>4f019a904b43bce0673c4fef4991a3b485dd5ef0
 }
